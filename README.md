@@ -16,8 +16,6 @@ A fully responsive, interactive, and SEO-optimized e-commerce showcase website f
 ### 🚀 Live Demo
 **Netlify (Production):** https://thecapitalapparel-st10509295.netlify.app
 
-> **Note:** Replace with your actual Netlify link after changing site name!
-
 ---
 
 ### ✨ Part 3 Features Implemented
